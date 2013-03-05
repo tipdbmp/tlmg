@@ -1,0 +1,7 @@
+body { background: white; }
+
+#page { width: 1024px; margin-left: auto; margin-right: auto; }
+#query { width: 512px; border: 1px solid #FFFFFF; margin-top: 10px; }
+#query:focus { box-shadow: 0px 0px 4px #FF6644; }
+table.pretty { border: 0px solid red; margin: 15px auto 15px auto; }
+table.pretty td { padding: 5px 5px 0px 5px; }
